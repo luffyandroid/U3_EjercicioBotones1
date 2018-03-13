@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">U3_EjercicioBotones1</string>
+    <string name="comida1">Primer plato</string>
+    <string name="comida2">Segundo plato</string>
+    <string name="sopa">Sopa</string>
+    <string name="ensalada">Ensalada</string>
+    <string name="nachos">Nachos</string>
+    <string name="carne">Carne</string>
+    <string name="pescado">Pescado</string>
+    <string name="bebida">Bebida:</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="verPedido">Ver pedido</string>
+</resources>
